@@ -1,14 +1,14 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d2299e9e5208b08b9fb4a0d142396c64",
+    "revision": "4b460c2ca8c8047faed449cdb0aa1373",
     "url": "./index.html"
   },
   {
-    "revision": "b239a0e2cd44a3af6f63",
-    "url": "./static/css/6.44b7073e.chunk.css"
+    "revision": "9e8f433b8cf3840386ab",
+    "url": "./static/css/6.b8e78ae6.chunk.css"
   },
   {
-    "revision": "1357932305b54d4b8cae",
+    "revision": "f63e536517a2ea351ede",
     "url": "./static/css/main.71e27d00.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "./static/js/0.3ffe27a0.chunk.js"
   },
   {
-    "revision": "b239a0e2cd44a3af6f63",
-    "url": "./static/js/6.66375011.chunk.js"
+    "revision": "9e8f433b8cf3840386ab",
+    "url": "./static/js/6.3bec8f65.chunk.js"
   },
   {
     "revision": "ad054f5bdd12847db63b",
@@ -40,8 +40,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "./static/js/@atlaskit/navigation-next/async-chunk/sortable-item.bfc8996b.chunk.js"
   },
   {
-    "revision": "1357932305b54d4b8cae",
-    "url": "./static/js/main.45cab82f.chunk.js"
+    "revision": "f63e536517a2ea351ede",
+    "url": "./static/js/main.e207f868.chunk.js"
   },
   {
     "revision": "378adfd703eaee90f642",
